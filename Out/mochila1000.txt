@@ -1,0 +1,260 @@
+Product[14]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[37]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[44]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[101]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[108]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[114]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[127]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[142]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[145]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[150]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[162]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[181]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[195]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[220]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[250]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[273]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[279]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[280]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[293]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[295]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[307]: 
+	>> Weigth: 146
+	>> Value: 46
+Product[308]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[311]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[335]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[359]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[360]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[409]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[418]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[428]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[448]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[450]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[459]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[460]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[468]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[477]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[486]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[488]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[491]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[504]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[510]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[515]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[523]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[534]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[551]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[554]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[565]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[570]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[574]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[619]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[624]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[626]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[633]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[641]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[653]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[658]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[666]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[702]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[713]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[714]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[718]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[729]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[752]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[759]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[768]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[775]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[788]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[796]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[799]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[810]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[848]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[859]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[864]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[865]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[871]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[877]: 
+	>> Weigth: 149
+	>> Value: 49
+Product[887]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[892]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[905]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[908]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[912]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[916]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[955]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[967]: 
+	>> Weigth: 150
+	>> Value: 50
+Product[974]: 
+	>> Weigth: 147
+	>> Value: 47
+Product[981]: 
+	>> Weigth: 148
+	>> Value: 48
+Product[997]: 
+	>> Weigth: 147
+	>> Value: 47
+
+Knapsack max value (solution): 4135

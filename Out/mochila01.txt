@@ -1,0 +1,14 @@
+Product[1]: 
+	>> Weigth: 1
+	>> Value: 1
+Product[2]: 
+	>> Weigth: 2
+	>> Value: 6
+Product[6]: 
+	>> Weigth: 9
+	>> Value: 40
+Product[7]: 
+	>> Weigth: 11
+	>> Value: 60
+
+Knapsack max value (solution): 107

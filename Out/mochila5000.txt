@@ -1,0 +1,2 @@
+
+Knapsack max value (solution): 71811

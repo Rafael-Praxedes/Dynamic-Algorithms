@@ -1,0 +1,3308 @@
+Product[1]: 
+	>> Weigth: 11
+	>> Value: 22
+Product[3]: 
+	>> Weigth: 7
+	>> Value: 32
+Product[5]: 
+	>> Weigth: 51
+	>> Value: 30
+Product[7]: 
+	>> Weigth: 22
+	>> Value: 14
+Product[8]: 
+	>> Weigth: 67
+	>> Value: 49
+Product[10]: 
+	>> Weigth: 4
+	>> Value: 30
+Product[15]: 
+	>> Weigth: 63
+	>> Value: 47
+Product[18]: 
+	>> Weigth: 36
+	>> Value: 27
+Product[22]: 
+	>> Weigth: 38
+	>> Value: 23
+Product[24]: 
+	>> Weigth: 71
+	>> Value: 43
+Product[25]: 
+	>> Weigth: 30
+	>> Value: 26
+Product[26]: 
+	>> Weigth: 24
+	>> Value: 17
+Product[27]: 
+	>> Weigth: 35
+	>> Value: 40
+Product[29]: 
+	>> Weigth: 77
+	>> Value: 46
+Product[30]: 
+	>> Weigth: 38
+	>> Value: 39
+Product[32]: 
+	>> Weigth: 11
+	>> Value: 15
+Product[33]: 
+	>> Weigth: 49
+	>> Value: 48
+Product[34]: 
+	>> Weigth: 43
+	>> Value: 36
+Product[40]: 
+	>> Weigth: 37
+	>> Value: 47
+Product[43]: 
+	>> Weigth: 2
+	>> Value: 38
+Product[46]: 
+	>> Weigth: 16
+	>> Value: 30
+Product[47]: 
+	>> Weigth: 15
+	>> Value: 28
+Product[50]: 
+	>> Weigth: 1
+	>> Value: 44
+Product[54]: 
+	>> Weigth: 61
+	>> Value: 48
+Product[55]: 
+	>> Weigth: 14
+	>> Value: 48
+Product[57]: 
+	>> Weigth: 10
+	>> Value: 11
+Product[62]: 
+	>> Weigth: 14
+	>> Value: 41
+Product[66]: 
+	>> Weigth: 54
+	>> Value: 44
+Product[69]: 
+	>> Weigth: 16
+	>> Value: 23
+Product[73]: 
+	>> Weigth: 13
+	>> Value: 8
+Product[76]: 
+	>> Weigth: 49
+	>> Value: 40
+Product[78]: 
+	>> Weigth: 30
+	>> Value: 24
+Product[79]: 
+	>> Weigth: 21
+	>> Value: 35
+Product[81]: 
+	>> Weigth: 40
+	>> Value: 37
+Product[82]: 
+	>> Weigth: 10
+	>> Value: 19
+Product[83]: 
+	>> Weigth: 3
+	>> Value: 22
+Product[85]: 
+	>> Weigth: 46
+	>> Value: 36
+Product[87]: 
+	>> Weigth: 38
+	>> Value: 34
+Product[88]: 
+	>> Weigth: 1
+	>> Value: 2
+Product[93]: 
+	>> Weigth: 27
+	>> Value: 30
+Product[97]: 
+	>> Weigth: 14
+	>> Value: 27
+Product[100]: 
+	>> Weigth: 39
+	>> Value: 47
+Product[102]: 
+	>> Weigth: 15
+	>> Value: 28
+Product[105]: 
+	>> Weigth: 9
+	>> Value: 47
+Product[108]: 
+	>> Weigth: 5
+	>> Value: 40
+Product[109]: 
+	>> Weigth: 53
+	>> Value: 45
+Product[114]: 
+	>> Weigth: 54
+	>> Value: 34
+Product[115]: 
+	>> Weigth: 4
+	>> Value: 42
+Product[117]: 
+	>> Weigth: 32
+	>> Value: 46
+Product[120]: 
+	>> Weigth: 24
+	>> Value: 21
+Product[121]: 
+	>> Weigth: 49
+	>> Value: 48
+Product[124]: 
+	>> Weigth: 1
+	>> Value: 27
+Product[125]: 
+	>> Weigth: 9
+	>> Value: 41
+Product[126]: 
+	>> Weigth: 47
+	>> Value: 33
+Product[128]: 
+	>> Weigth: 18
+	>> Value: 32
+Product[129]: 
+	>> Weigth: 23
+	>> Value: 23
+Product[131]: 
+	>> Weigth: 66
+	>> Value: 49
+Product[132]: 
+	>> Weigth: 22
+	>> Value: 47
+Product[133]: 
+	>> Weigth: 45
+	>> Value: 43
+Product[136]: 
+	>> Weigth: 76
+	>> Value: 45
+Product[137]: 
+	>> Weigth: 27
+	>> Value: 36
+Product[138]: 
+	>> Weigth: 56
+	>> Value: 49
+Product[145]: 
+	>> Weigth: 83
+	>> Value: 49
+Product[149]: 
+	>> Weigth: 15
+	>> Value: 50
+Product[154]: 
+	>> Weigth: 5
+	>> Value: 10
+Product[155]: 
+	>> Weigth: 19
+	>> Value: 31
+Product[159]: 
+	>> Weigth: 22
+	>> Value: 50
+Product[162]: 
+	>> Weigth: 4
+	>> Value: 47
+Product[165]: 
+	>> Weigth: 1
+	>> Value: 37
+Product[167]: 
+	>> Weigth: 11
+	>> Value: 23
+Product[168]: 
+	>> Weigth: 35
+	>> Value: 21
+Product[171]: 
+	>> Weigth: 21
+	>> Value: 50
+Product[172]: 
+	>> Weigth: 25
+	>> Value: 27
+Product[173]: 
+	>> Weigth: 12
+	>> Value: 46
+Product[176]: 
+	>> Weigth: 41
+	>> Value: 45
+Product[177]: 
+	>> Weigth: 24
+	>> Value: 46
+Product[179]: 
+	>> Weigth: 47
+	>> Value: 33
+Product[180]: 
+	>> Weigth: 24
+	>> Value: 49
+Product[181]: 
+	>> Weigth: 20
+	>> Value: 43
+Product[184]: 
+	>> Weigth: 2
+	>> Value: 3
+Product[185]: 
+	>> Weigth: 3
+	>> Value: 34
+Product[187]: 
+	>> Weigth: 35
+	>> Value: 35
+Product[188]: 
+	>> Weigth: 2
+	>> Value: 47
+Product[190]: 
+	>> Weigth: 31
+	>> Value: 24
+Product[193]: 
+	>> Weigth: 18
+	>> Value: 14
+Product[194]: 
+	>> Weigth: 20
+	>> Value: 14
+Product[200]: 
+	>> Weigth: 9
+	>> Value: 9
+Product[204]: 
+	>> Weigth: 18
+	>> Value: 29
+Product[206]: 
+	>> Weigth: 5
+	>> Value: 46
+Product[208]: 
+	>> Weigth: 52
+	>> Value: 41
+Product[210]: 
+	>> Weigth: 4
+	>> Value: 36
+Product[216]: 
+	>> Weigth: 76
+	>> Value: 45
+Product[218]: 
+	>> Weigth: 17
+	>> Value: 38
+Product[221]: 
+	>> Weigth: 34
+	>> Value: 22
+Product[224]: 
+	>> Weigth: 49
+	>> Value: 37
+Product[227]: 
+	>> Weigth: 22
+	>> Value: 28
+Product[228]: 
+	>> Weigth: 10
+	>> Value: 32
+Product[229]: 
+	>> Weigth: 32
+	>> Value: 26
+Product[233]: 
+	>> Weigth: 83
+	>> Value: 50
+Product[234]: 
+	>> Weigth: 25
+	>> Value: 28
+Product[237]: 
+	>> Weigth: 16
+	>> Value: 48
+Product[239]: 
+	>> Weigth: 8
+	>> Value: 27
+Product[240]: 
+	>> Weigth: 49
+	>> Value: 41
+Product[241]: 
+	>> Weigth: 30
+	>> Value: 22
+Product[243]: 
+	>> Weigth: 1
+	>> Value: 6
+Product[244]: 
+	>> Weigth: 33
+	>> Value: 34
+Product[247]: 
+	>> Weigth: 5
+	>> Value: 7
+Product[248]: 
+	>> Weigth: 18
+	>> Value: 38
+Product[249]: 
+	>> Weigth: 8
+	>> Value: 44
+Product[250]: 
+	>> Weigth: 17
+	>> Value: 45
+Product[253]: 
+	>> Weigth: 55
+	>> Value: 47
+Product[254]: 
+	>> Weigth: 16
+	>> Value: 14
+Product[255]: 
+	>> Weigth: 23
+	>> Value: 14
+Product[256]: 
+	>> Weigth: 4
+	>> Value: 4
+Product[258]: 
+	>> Weigth: 55
+	>> Value: 39
+Product[259]: 
+	>> Weigth: 5
+	>> Value: 39
+Product[260]: 
+	>> Weigth: 22
+	>> Value: 37
+Product[261]: 
+	>> Weigth: 19
+	>> Value: 46
+Product[263]: 
+	>> Weigth: 4
+	>> Value: 34
+Product[265]: 
+	>> Weigth: 29
+	>> Value: 31
+Product[266]: 
+	>> Weigth: 8
+	>> Value: 16
+Product[267]: 
+	>> Weigth: 37
+	>> Value: 26
+Product[268]: 
+	>> Weigth: 69
+	>> Value: 43
+Product[269]: 
+	>> Weigth: 22
+	>> Value: 35
+Product[270]: 
+	>> Weigth: 57
+	>> Value: 46
+Product[274]: 
+	>> Weigth: 25
+	>> Value: 17
+Product[280]: 
+	>> Weigth: 12
+	>> Value: 34
+Product[284]: 
+	>> Weigth: 16
+	>> Value: 17
+Product[288]: 
+	>> Weigth: 39
+	>> Value: 48
+Product[291]: 
+	>> Weigth: 14
+	>> Value: 17
+Product[294]: 
+	>> Weigth: 7
+	>> Value: 44
+Product[299]: 
+	>> Weigth: 49
+	>> Value: 42
+Product[303]: 
+	>> Weigth: 23
+	>> Value: 45
+Product[304]: 
+	>> Weigth: 1
+	>> Value: 39
+Product[305]: 
+	>> Weigth: 12
+	>> Value: 16
+Product[308]: 
+	>> Weigth: 35
+	>> Value: 23
+Product[311]: 
+	>> Weigth: 59
+	>> Value: 48
+Product[312]: 
+	>> Weigth: 18
+	>> Value: 48
+Product[313]: 
+	>> Weigth: 77
+	>> Value: 45
+Product[314]: 
+	>> Weigth: 32
+	>> Value: 27
+Product[315]: 
+	>> Weigth: 38
+	>> Value: 32
+Product[317]: 
+	>> Weigth: 44
+	>> Value: 34
+Product[320]: 
+	>> Weigth: 7
+	>> Value: 41
+Product[325]: 
+	>> Weigth: 41
+	>> Value: 50
+Product[329]: 
+	>> Weigth: 54
+	>> Value: 32
+Product[330]: 
+	>> Weigth: 3
+	>> Value: 44
+Product[331]: 
+	>> Weigth: 13
+	>> Value: 30
+Product[334]: 
+	>> Weigth: 74
+	>> Value: 46
+Product[336]: 
+	>> Weigth: 36
+	>> Value: 40
+Product[340]: 
+	>> Weigth: 7
+	>> Value: 47
+Product[343]: 
+	>> Weigth: 61
+	>> Value: 48
+Product[344]: 
+	>> Weigth: 5
+	>> Value: 16
+Product[346]: 
+	>> Weigth: 9
+	>> Value: 43
+Product[348]: 
+	>> Weigth: 1
+	>> Value: 5
+Product[350]: 
+	>> Weigth: 51
+	>> Value: 31
+Product[351]: 
+	>> Weigth: 58
+	>> Value: 38
+Product[352]: 
+	>> Weigth: 71
+	>> Value: 49
+Product[354]: 
+	>> Weigth: 75
+	>> Value: 47
+Product[355]: 
+	>> Weigth: 3
+	>> Value: 34
+Product[356]: 
+	>> Weigth: 43
+	>> Value: 35
+Product[357]: 
+	>> Weigth: 34
+	>> Value: 42
+Product[358]: 
+	>> Weigth: 64
+	>> Value: 44
+Product[360]: 
+	>> Weigth: 12
+	>> Value: 19
+Product[364]: 
+	>> Weigth: 74
+	>> Value: 45
+Product[366]: 
+	>> Weigth: 76
+	>> Value: 48
+Product[367]: 
+	>> Weigth: 13
+	>> Value: 46
+Product[371]: 
+	>> Weigth: 56
+	>> Value: 47
+Product[372]: 
+	>> Weigth: 5
+	>> Value: 39
+Product[374]: 
+	>> Weigth: 35
+	>> Value: 29
+Product[375]: 
+	>> Weigth: 40
+	>> Value: 46
+Product[377]: 
+	>> Weigth: 17
+	>> Value: 15
+Product[378]: 
+	>> Weigth: 39
+	>> Value: 48
+Product[384]: 
+	>> Weigth: 7
+	>> Value: 30
+Product[386]: 
+	>> Weigth: 51
+	>> Value: 39
+Product[388]: 
+	>> Weigth: 80
+	>> Value: 48
+Product[391]: 
+	>> Weigth: 11
+	>> Value: 27
+Product[392]: 
+	>> Weigth: 36
+	>> Value: 27
+Product[393]: 
+	>> Weigth: 41
+	>> Value: 25
+Product[394]: 
+	>> Weigth: 27
+	>> Value: 21
+Product[398]: 
+	>> Weigth: 28
+	>> Value: 50
+Product[399]: 
+	>> Weigth: 17
+	>> Value: 34
+Product[401]: 
+	>> Weigth: 45
+	>> Value: 31
+Product[403]: 
+	>> Weigth: 36
+	>> Value: 22
+Product[404]: 
+	>> Weigth: 1
+	>> Value: 12
+Product[405]: 
+	>> Weigth: 35
+	>> Value: 28
+Product[406]: 
+	>> Weigth: 27
+	>> Value: 47
+Product[407]: 
+	>> Weigth: 7
+	>> Value: 13
+Product[408]: 
+	>> Weigth: 24
+	>> Value: 49
+Product[412]: 
+	>> Weigth: 2
+	>> Value: 5
+Product[414]: 
+	>> Weigth: 6
+	>> Value: 34
+Product[420]: 
+	>> Weigth: 16
+	>> Value: 36
+Product[421]: 
+	>> Weigth: 43
+	>> Value: 43
+Product[422]: 
+	>> Weigth: 33
+	>> Value: 49
+Product[425]: 
+	>> Weigth: 9
+	>> Value: 18
+Product[429]: 
+	>> Weigth: 4
+	>> Value: 41
+Product[430]: 
+	>> Weigth: 27
+	>> Value: 20
+Product[432]: 
+	>> Weigth: 32
+	>> Value: 45
+Product[433]: 
+	>> Weigth: 40
+	>> Value: 47
+Product[434]: 
+	>> Weigth: 2
+	>> Value: 39
+Product[435]: 
+	>> Weigth: 14
+	>> Value: 19
+Product[443]: 
+	>> Weigth: 60
+	>> Value: 37
+Product[445]: 
+	>> Weigth: 27
+	>> Value: 25
+Product[448]: 
+	>> Weigth: 1
+	>> Value: 27
+Product[450]: 
+	>> Weigth: 15
+	>> Value: 28
+Product[451]: 
+	>> Weigth: 22
+	>> Value: 41
+Product[452]: 
+	>> Weigth: 36
+	>> Value: 35
+Product[453]: 
+	>> Weigth: 50
+	>> Value: 45
+Product[454]: 
+	>> Weigth: 3
+	>> Value: 17
+Product[456]: 
+	>> Weigth: 39
+	>> Value: 27
+Product[457]: 
+	>> Weigth: 2
+	>> Value: 43
+Product[459]: 
+	>> Weigth: 29
+	>> Value: 29
+Product[462]: 
+	>> Weigth: 9
+	>> Value: 40
+Product[464]: 
+	>> Weigth: 67
+	>> Value: 45
+Product[465]: 
+	>> Weigth: 14
+	>> Value: 33
+Product[468]: 
+	>> Weigth: 20
+	>> Value: 25
+Product[469]: 
+	>> Weigth: 4
+	>> Value: 22
+Product[476]: 
+	>> Weigth: 61
+	>> Value: 46
+Product[480]: 
+	>> Weigth: 67
+	>> Value: 45
+Product[486]: 
+	>> Weigth: 11
+	>> Value: 15
+Product[487]: 
+	>> Weigth: 11
+	>> Value: 44
+Product[488]: 
+	>> Weigth: 9
+	>> Value: 36
+Product[489]: 
+	>> Weigth: 8
+	>> Value: 14
+Product[492]: 
+	>> Weigth: 47
+	>> Value: 41
+Product[493]: 
+	>> Weigth: 21
+	>> Value: 36
+Product[495]: 
+	>> Weigth: 39
+	>> Value: 30
+Product[496]: 
+	>> Weigth: 1
+	>> Value: 26
+Product[501]: 
+	>> Weigth: 4
+	>> Value: 35
+Product[502]: 
+	>> Weigth: 21
+	>> Value: 17
+Product[503]: 
+	>> Weigth: 29
+	>> Value: 31
+Product[504]: 
+	>> Weigth: 2
+	>> Value: 36
+Product[505]: 
+	>> Weigth: 45
+	>> Value: 42
+Product[506]: 
+	>> Weigth: 38
+	>> Value: 42
+Product[509]: 
+	>> Weigth: 21
+	>> Value: 47
+Product[515]: 
+	>> Weigth: 2
+	>> Value: 41
+Product[519]: 
+	>> Weigth: 44
+	>> Value: 26
+Product[523]: 
+	>> Weigth: 17
+	>> Value: 15
+Product[524]: 
+	>> Weigth: 28
+	>> Value: 38
+Product[525]: 
+	>> Weigth: 13
+	>> Value: 49
+Product[526]: 
+	>> Weigth: 48
+	>> Value: 38
+Product[529]: 
+	>> Weigth: 12
+	>> Value: 50
+Product[530]: 
+	>> Weigth: 9
+	>> Value: 15
+Product[533]: 
+	>> Weigth: 14
+	>> Value: 48
+Product[535]: 
+	>> Weigth: 23
+	>> Value: 19
+Product[536]: 
+	>> Weigth: 1
+	>> Value: 44
+Product[538]: 
+	>> Weigth: 5
+	>> Value: 16
+Product[539]: 
+	>> Weigth: 51
+	>> Value: 34
+Product[540]: 
+	>> Weigth: 5
+	>> Value: 13
+Product[542]: 
+	>> Weigth: 3
+	>> Value: 3
+Product[547]: 
+	>> Weigth: 35
+	>> Value: 42
+Product[552]: 
+	>> Weigth: 6
+	>> Value: 43
+Product[554]: 
+	>> Weigth: 10
+	>> Value: 48
+Product[561]: 
+	>> Weigth: 46
+	>> Value: 35
+Product[563]: 
+	>> Weigth: 26
+	>> Value: 16
+Product[567]: 
+	>> Weigth: 59
+	>> Value: 38
+Product[570]: 
+	>> Weigth: 3
+	>> Value: 48
+Product[571]: 
+	>> Weigth: 3
+	>> Value: 13
+Product[574]: 
+	>> Weigth: 37
+	>> Value: 25
+Product[576]: 
+	>> Weigth: 13
+	>> Value: 25
+Product[577]: 
+	>> Weigth: 37
+	>> Value: 32
+Product[578]: 
+	>> Weigth: 9
+	>> Value: 15
+Product[579]: 
+	>> Weigth: 49
+	>> Value: 43
+Product[582]: 
+	>> Weigth: 24
+	>> Value: 47
+Product[584]: 
+	>> Weigth: 2
+	>> Value: 49
+Product[587]: 
+	>> Weigth: 19
+	>> Value: 28
+Product[588]: 
+	>> Weigth: 18
+	>> Value: 44
+Product[590]: 
+	>> Weigth: 21
+	>> Value: 23
+Product[591]: 
+	>> Weigth: 6
+	>> Value: 35
+Product[596]: 
+	>> Weigth: 58
+	>> Value: 40
+Product[598]: 
+	>> Weigth: 38
+	>> Value: 49
+Product[599]: 
+	>> Weigth: 35
+	>> Value: 39
+Product[602]: 
+	>> Weigth: 19
+	>> Value: 13
+Product[605]: 
+	>> Weigth: 42
+	>> Value: 31
+Product[607]: 
+	>> Weigth: 15
+	>> Value: 46
+Product[608]: 
+	>> Weigth: 41
+	>> Value: 35
+Product[609]: 
+	>> Weigth: 3
+	>> Value: 49
+Product[610]: 
+	>> Weigth: 2
+	>> Value: 4
+Product[616]: 
+	>> Weigth: 4
+	>> Value: 17
+Product[617]: 
+	>> Weigth: 34
+	>> Value: 22
+Product[619]: 
+	>> Weigth: 9
+	>> Value: 40
+Product[620]: 
+	>> Weigth: 84
+	>> Value: 50
+Product[622]: 
+	>> Weigth: 49
+	>> Value: 36
+Product[624]: 
+	>> Weigth: 22
+	>> Value: 30
+Product[626]: 
+	>> Weigth: 35
+	>> Value: 30
+Product[630]: 
+	>> Weigth: 4
+	>> Value: 33
+Product[633]: 
+	>> Weigth: 28
+	>> Value: 31
+Product[636]: 
+	>> Weigth: 38
+	>> Value: 41
+Product[637]: 
+	>> Weigth: 1
+	>> Value: 38
+Product[638]: 
+	>> Weigth: 28
+	>> Value: 26
+Product[639]: 
+	>> Weigth: 79
+	>> Value: 50
+Product[641]: 
+	>> Weigth: 73
+	>> Value: 42
+Product[642]: 
+	>> Weigth: 1
+	>> Value: 7
+Product[643]: 
+	>> Weigth: 21
+	>> Value: 19
+Product[646]: 
+	>> Weigth: 16
+	>> Value: 18
+Product[649]: 
+	>> Weigth: 47
+	>> Value: 31
+Product[653]: 
+	>> Weigth: 41
+	>> Value: 39
+Product[654]: 
+	>> Weigth: 28
+	>> Value: 21
+Product[655]: 
+	>> Weigth: 38
+	>> Value: 34
+Product[657]: 
+	>> Weigth: 75
+	>> Value: 44
+Product[658]: 
+	>> Weigth: 20
+	>> Value: 47
+Product[661]: 
+	>> Weigth: 43
+	>> Value: 45
+Product[662]: 
+	>> Weigth: 6
+	>> Value: 38
+Product[663]: 
+	>> Weigth: 61
+	>> Value: 50
+Product[665]: 
+	>> Weigth: 30
+	>> Value: 24
+Product[666]: 
+	>> Weigth: 28
+	>> Value: 31
+Product[668]: 
+	>> Weigth: 33
+	>> Value: 19
+Product[672]: 
+	>> Weigth: 28
+	>> Value: 22
+Product[673]: 
+	>> Weigth: 73
+	>> Value: 50
+Product[675]: 
+	>> Weigth: 3
+	>> Value: 49
+Product[676]: 
+	>> Weigth: 74
+	>> Value: 45
+Product[679]: 
+	>> Weigth: 30
+	>> Value: 45
+Product[681]: 
+	>> Weigth: 70
+	>> Value: 42
+Product[682]: 
+	>> Weigth: 40
+	>> Value: 46
+Product[683]: 
+	>> Weigth: 30
+	>> Value: 22
+Product[684]: 
+	>> Weigth: 14
+	>> Value: 9
+Product[686]: 
+	>> Weigth: 25
+	>> Value: 30
+Product[688]: 
+	>> Weigth: 3
+	>> Value: 7
+Product[689]: 
+	>> Weigth: 3
+	>> Value: 22
+Product[691]: 
+	>> Weigth: 21
+	>> Value: 19
+Product[692]: 
+	>> Weigth: 1
+	>> Value: 13
+Product[697]: 
+	>> Weigth: 26
+	>> Value: 30
+Product[701]: 
+	>> Weigth: 17
+	>> Value: 41
+Product[704]: 
+	>> Weigth: 62
+	>> Value: 47
+Product[706]: 
+	>> Weigth: 4
+	>> Value: 10
+Product[717]: 
+	>> Weigth: 20
+	>> Value: 27
+Product[720]: 
+	>> Weigth: 62
+	>> Value: 37
+Product[722]: 
+	>> Weigth: 48
+	>> Value: 48
+Product[726]: 
+	>> Weigth: 40
+	>> Value: 50
+Product[728]: 
+	>> Weigth: 55
+	>> Value: 42
+Product[731]: 
+	>> Weigth: 48
+	>> Value: 28
+Product[732]: 
+	>> Weigth: 26
+	>> Value: 17
+Product[733]: 
+	>> Weigth: 54
+	>> Value: 33
+Product[735]: 
+	>> Weigth: 49
+	>> Value: 43
+Product[737]: 
+	>> Weigth: 60
+	>> Value: 38
+Product[739]: 
+	>> Weigth: 14
+	>> Value: 44
+Product[740]: 
+	>> Weigth: 51
+	>> Value: 34
+Product[741]: 
+	>> Weigth: 22
+	>> Value: 40
+Product[742]: 
+	>> Weigth: 33
+	>> Value: 44
+Product[743]: 
+	>> Weigth: 54
+	>> Value: 38
+Product[744]: 
+	>> Weigth: 37
+	>> Value: 40
+Product[748]: 
+	>> Weigth: 21
+	>> Value: 36
+Product[755]: 
+	>> Weigth: 58
+	>> Value: 43
+Product[756]: 
+	>> Weigth: 14
+	>> Value: 31
+Product[761]: 
+	>> Weigth: 66
+	>> Value: 40
+Product[766]: 
+	>> Weigth: 17
+	>> Value: 16
+Product[771]: 
+	>> Weigth: 7
+	>> Value: 13
+Product[772]: 
+	>> Weigth: 13
+	>> Value: 41
+Product[773]: 
+	>> Weigth: 61
+	>> Value: 39
+Product[774]: 
+	>> Weigth: 29
+	>> Value: 46
+Product[775]: 
+	>> Weigth: 2
+	>> Value: 8
+Product[777]: 
+	>> Weigth: 49
+	>> Value: 34
+Product[778]: 
+	>> Weigth: 17
+	>> Value: 27
+Product[779]: 
+	>> Weigth: 49
+	>> Value: 50
+Product[781]: 
+	>> Weigth: 22
+	>> Value: 44
+Product[782]: 
+	>> Weigth: 35
+	>> Value: 24
+Product[783]: 
+	>> Weigth: 3
+	>> Value: 7
+Product[784]: 
+	>> Weigth: 41
+	>> Value: 26
+Product[785]: 
+	>> Weigth: 21
+	>> Value: 40
+Product[786]: 
+	>> Weigth: 10
+	>> Value: 30
+Product[787]: 
+	>> Weigth: 5
+	>> Value: 25
+Product[788]: 
+	>> Weigth: 20
+	>> Value: 15
+Product[789]: 
+	>> Weigth: 13
+	>> Value: 50
+Product[790]: 
+	>> Weigth: 11
+	>> Value: 16
+Product[791]: 
+	>> Weigth: 57
+	>> Value: 49
+Product[795]: 
+	>> Weigth: 4
+	>> Value: 8
+Product[797]: 
+	>> Weigth: 53
+	>> Value: 34
+Product[798]: 
+	>> Weigth: 1
+	>> Value: 6
+Product[801]: 
+	>> Weigth: 35
+	>> Value: 43
+Product[802]: 
+	>> Weigth: 44
+	>> Value: 39
+Product[804]: 
+	>> Weigth: 3
+	>> Value: 31
+Product[808]: 
+	>> Weigth: 28
+	>> Value: 44
+Product[812]: 
+	>> Weigth: 16
+	>> Value: 25
+Product[813]: 
+	>> Weigth: 12
+	>> Value: 16
+Product[816]: 
+	>> Weigth: 69
+	>> Value: 45
+Product[817]: 
+	>> Weigth: 6
+	>> Value: 12
+Product[818]: 
+	>> Weigth: 33
+	>> Value: 24
+Product[819]: 
+	>> Weigth: 27
+	>> Value: 35
+Product[820]: 
+	>> Weigth: 7
+	>> Value: 40
+Product[822]: 
+	>> Weigth: 13
+	>> Value: 12
+Product[823]: 
+	>> Weigth: 39
+	>> Value: 42
+Product[824]: 
+	>> Weigth: 6
+	>> Value: 25
+Product[825]: 
+	>> Weigth: 54
+	>> Value: 33
+Product[829]: 
+	>> Weigth: 49
+	>> Value: 31
+Product[833]: 
+	>> Weigth: 57
+	>> Value: 37
+Product[836]: 
+	>> Weigth: 25
+	>> Value: 22
+Product[837]: 
+	>> Weigth: 35
+	>> Value: 37
+Product[838]: 
+	>> Weigth: 36
+	>> Value: 25
+Product[840]: 
+	>> Weigth: 51
+	>> Value: 34
+Product[842]: 
+	>> Weigth: 11
+	>> Value: 33
+Product[844]: 
+	>> Weigth: 4
+	>> Value: 49
+Product[846]: 
+	>> Weigth: 57
+	>> Value: 35
+Product[848]: 
+	>> Weigth: 36
+	>> Value: 33
+Product[851]: 
+	>> Weigth: 43
+	>> Value: 40
+Product[852]: 
+	>> Weigth: 45
+	>> Value: 30
+Product[854]: 
+	>> Weigth: 6
+	>> Value: 9
+Product[856]: 
+	>> Weigth: 42
+	>> Value: 46
+Product[859]: 
+	>> Weigth: 15
+	>> Value: 31
+Product[865]: 
+	>> Weigth: 40
+	>> Value: 34
+Product[866]: 
+	>> Weigth: 11
+	>> Value: 33
+Product[870]: 
+	>> Weigth: 13
+	>> Value: 9
+Product[872]: 
+	>> Weigth: 4
+	>> Value: 49
+Product[873]: 
+	>> Weigth: 10
+	>> Value: 31
+Product[875]: 
+	>> Weigth: 13
+	>> Value: 42
+Product[879]: 
+	>> Weigth: 49
+	>> Value: 33
+Product[880]: 
+	>> Weigth: 50
+	>> Value: 41
+Product[882]: 
+	>> Weigth: 23
+	>> Value: 45
+Product[883]: 
+	>> Weigth: 66
+	>> Value: 38
+Product[886]: 
+	>> Weigth: 11
+	>> Value: 33
+Product[887]: 
+	>> Weigth: 18
+	>> Value: 14
+Product[890]: 
+	>> Weigth: 3
+	>> Value: 11
+Product[891]: 
+	>> Weigth: 49
+	>> Value: 34
+Product[899]: 
+	>> Weigth: 58
+	>> Value: 47
+Product[900]: 
+	>> Weigth: 13
+	>> Value: 16
+Product[904]: 
+	>> Weigth: 55
+	>> Value: 36
+Product[908]: 
+	>> Weigth: 9
+	>> Value: 48
+Product[909]: 
+	>> Weigth: 35
+	>> Value: 38
+Product[910]: 
+	>> Weigth: 5
+	>> Value: 21
+Product[917]: 
+	>> Weigth: 56
+	>> Value: 47
+Product[918]: 
+	>> Weigth: 57
+	>> Value: 44
+Product[921]: 
+	>> Weigth: 20
+	>> Value: 27
+Product[922]: 
+	>> Weigth: 10
+	>> Value: 11
+Product[923]: 
+	>> Weigth: 12
+	>> Value: 18
+Product[924]: 
+	>> Weigth: 9
+	>> Value: 49
+Product[926]: 
+	>> Weigth: 21
+	>> Value: 26
+Product[927]: 
+	>> Weigth: 15
+	>> Value: 46
+Product[930]: 
+	>> Weigth: 67
+	>> Value: 40
+Product[932]: 
+	>> Weigth: 70
+	>> Value: 45
+Product[933]: 
+	>> Weigth: 11
+	>> Value: 28
+Product[936]: 
+	>> Weigth: 10
+	>> Value: 10
+Product[940]: 
+	>> Weigth: 12
+	>> Value: 46
+Product[941]: 
+	>> Weigth: 42
+	>> Value: 32
+Product[945]: 
+	>> Weigth: 15
+	>> Value: 10
+Product[948]: 
+	>> Weigth: 48
+	>> Value: 34
+Product[950]: 
+	>> Weigth: 25
+	>> Value: 28
+Product[951]: 
+	>> Weigth: 9
+	>> Value: 37
+Product[954]: 
+	>> Weigth: 20
+	>> Value: 47
+Product[957]: 
+	>> Weigth: 14
+	>> Value: 13
+Product[958]: 
+	>> Weigth: 37
+	>> Value: 43
+Product[961]: 
+	>> Weigth: 42
+	>> Value: 31
+Product[964]: 
+	>> Weigth: 2
+	>> Value: 32
+Product[966]: 
+	>> Weigth: 11
+	>> Value: 40
+Product[967]: 
+	>> Weigth: 13
+	>> Value: 49
+Product[969]: 
+	>> Weigth: 8
+	>> Value: 21
+Product[970]: 
+	>> Weigth: 17
+	>> Value: 45
+Product[973]: 
+	>> Weigth: 23
+	>> Value: 14
+Product[974]: 
+	>> Weigth: 60
+	>> Value: 46
+Product[976]: 
+	>> Weigth: 34
+	>> Value: 40
+Product[977]: 
+	>> Weigth: 35
+	>> Value: 26
+Product[978]: 
+	>> Weigth: 6
+	>> Value: 27
+Product[980]: 
+	>> Weigth: 60
+	>> Value: 49
+Product[982]: 
+	>> Weigth: 38
+	>> Value: 50
+Product[983]: 
+	>> Weigth: 20
+	>> Value: 39
+Product[984]: 
+	>> Weigth: 22
+	>> Value: 28
+Product[985]: 
+	>> Weigth: 59
+	>> Value: 39
+Product[988]: 
+	>> Weigth: 29
+	>> Value: 21
+Product[989]: 
+	>> Weigth: 65
+	>> Value: 38
+Product[990]: 
+	>> Weigth: 16
+	>> Value: 12
+Product[991]: 
+	>> Weigth: 42
+	>> Value: 50
+Product[992]: 
+	>> Weigth: 1
+	>> Value: 27
+Product[994]: 
+	>> Weigth: 55
+	>> Value: 45
+Product[995]: 
+	>> Weigth: 18
+	>> Value: 17
+Product[998]: 
+	>> Weigth: 4
+	>> Value: 8
+Product[1001]: 
+	>> Weigth: 15
+	>> Value: 10
+Product[1004]: 
+	>> Weigth: 34
+	>> Value: 25
+Product[1007]: 
+	>> Weigth: 50
+	>> Value: 39
+Product[1008]: 
+	>> Weigth: 29
+	>> Value: 26
+Product[1011]: 
+	>> Weigth: 2
+	>> Value: 13
+Product[1019]: 
+	>> Weigth: 7
+	>> Value: 11
+Product[1021]: 
+	>> Weigth: 12
+	>> Value: 19
+Product[1023]: 
+	>> Weigth: 57
+	>> Value: 47
+Product[1027]: 
+	>> Weigth: 22
+	>> Value: 37
+Product[1029]: 
+	>> Weigth: 11
+	>> Value: 19
+Product[1031]: 
+	>> Weigth: 5
+	>> Value: 32
+Product[1032]: 
+	>> Weigth: 23
+	>> Value: 48
+Product[1033]: 
+	>> Weigth: 19
+	>> Value: 50
+Product[1035]: 
+	>> Weigth: 11
+	>> Value: 36
+Product[1040]: 
+	>> Weigth: 67
+	>> Value: 39
+Product[1041]: 
+	>> Weigth: 32
+	>> Value: 37
+Product[1043]: 
+	>> Weigth: 25
+	>> Value: 43
+Product[1050]: 
+	>> Weigth: 34
+	>> Value: 30
+Product[1051]: 
+	>> Weigth: 7
+	>> Value: 26
+Product[1053]: 
+	>> Weigth: 37
+	>> Value: 37
+Product[1054]: 
+	>> Weigth: 23
+	>> Value: 44
+Product[1055]: 
+	>> Weigth: 10
+	>> Value: 41
+Product[1056]: 
+	>> Weigth: 32
+	>> Value: 41
+Product[1063]: 
+	>> Weigth: 55
+	>> Value: 46
+Product[1064]: 
+	>> Weigth: 19
+	>> Value: 24
+Product[1066]: 
+	>> Weigth: 4
+	>> Value: 24
+Product[1073]: 
+	>> Weigth: 45
+	>> Value: 41
+Product[1075]: 
+	>> Weigth: 8
+	>> Value: 18
+Product[1076]: 
+	>> Weigth: 2
+	>> Value: 31
+Product[1077]: 
+	>> Weigth: 2
+	>> Value: 30
+Product[1080]: 
+	>> Weigth: 31
+	>> Value: 41
+Product[1081]: 
+	>> Weigth: 18
+	>> Value: 36
+Product[1082]: 
+	>> Weigth: 14
+	>> Value: 49
+Product[1084]: 
+	>> Weigth: 16
+	>> Value: 39
+Product[1087]: 
+	>> Weigth: 15
+	>> Value: 40
+Product[1090]: 
+	>> Weigth: 52
+	>> Value: 40
+Product[1092]: 
+	>> Weigth: 22
+	>> Value: 35
+Product[1095]: 
+	>> Weigth: 31
+	>> Value: 20
+Product[1096]: 
+	>> Weigth: 51
+	>> Value: 50
+Product[1097]: 
+	>> Weigth: 8
+	>> Value: 16
+Product[1100]: 
+	>> Weigth: 39
+	>> Value: 26
+Product[1101]: 
+	>> Weigth: 40
+	>> Value: 33
+Product[1107]: 
+	>> Weigth: 24
+	>> Value: 20
+Product[1110]: 
+	>> Weigth: 17
+	>> Value: 18
+Product[1111]: 
+	>> Weigth: 12
+	>> Value: 19
+Product[1112]: 
+	>> Weigth: 19
+	>> Value: 19
+Product[1120]: 
+	>> Weigth: 25
+	>> Value: 16
+Product[1121]: 
+	>> Weigth: 20
+	>> Value: 20
+Product[1122]: 
+	>> Weigth: 32
+	>> Value: 43
+Product[1124]: 
+	>> Weigth: 2
+	>> Value: 27
+Product[1128]: 
+	>> Weigth: 5
+	>> Value: 25
+Product[1129]: 
+	>> Weigth: 30
+	>> Value: 25
+Product[1132]: 
+	>> Weigth: 40
+	>> Value: 26
+Product[1133]: 
+	>> Weigth: 15
+	>> Value: 22
+Product[1134]: 
+	>> Weigth: 46
+	>> Value: 44
+Product[1136]: 
+	>> Weigth: 61
+	>> Value: 41
+Product[1140]: 
+	>> Weigth: 56
+	>> Value: 46
+Product[1141]: 
+	>> Weigth: 9
+	>> Value: 49
+Product[1142]: 
+	>> Weigth: 33
+	>> Value: 50
+Product[1143]: 
+	>> Weigth: 13
+	>> Value: 37
+Product[1144]: 
+	>> Weigth: 24
+	>> Value: 43
+Product[1146]: 
+	>> Weigth: 60
+	>> Value: 47
+Product[1147]: 
+	>> Weigth: 53
+	>> Value: 49
+Product[1150]: 
+	>> Weigth: 62
+	>> Value: 44
+Product[1153]: 
+	>> Weigth: 15
+	>> Value: 22
+Product[1154]: 
+	>> Weigth: 58
+	>> Value: 39
+Product[1155]: 
+	>> Weigth: 12
+	>> Value: 15
+Product[1157]: 
+	>> Weigth: 13
+	>> Value: 20
+Product[1158]: 
+	>> Weigth: 22
+	>> Value: 28
+Product[1159]: 
+	>> Weigth: 7
+	>> Value: 45
+Product[1160]: 
+	>> Weigth: 20
+	>> Value: 20
+Product[1161]: 
+	>> Weigth: 47
+	>> Value: 31
+Product[1162]: 
+	>> Weigth: 16
+	>> Value: 49
+Product[1163]: 
+	>> Weigth: 29
+	>> Value: 41
+Product[1166]: 
+	>> Weigth: 45
+	>> Value: 49
+Product[1167]: 
+	>> Weigth: 53
+	>> Value: 31
+Product[1168]: 
+	>> Weigth: 27
+	>> Value: 17
+Product[1169]: 
+	>> Weigth: 2
+	>> Value: 36
+Product[1170]: 
+	>> Weigth: 7
+	>> Value: 15
+Product[1182]: 
+	>> Weigth: 10
+	>> Value: 50
+Product[1184]: 
+	>> Weigth: 68
+	>> Value: 49
+Product[1186]: 
+	>> Weigth: 15
+	>> Value: 23
+Product[1189]: 
+	>> Weigth: 9
+	>> Value: 28
+Product[1191]: 
+	>> Weigth: 40
+	>> Value: 50
+Product[1192]: 
+	>> Weigth: 16
+	>> Value: 32
+Product[1193]: 
+	>> Weigth: 9
+	>> Value: 17
+Product[1194]: 
+	>> Weigth: 5
+	>> Value: 8
+Product[1196]: 
+	>> Weigth: 19
+	>> Value: 34
+Product[1200]: 
+	>> Weigth: 42
+	>> Value: 38
+Product[1203]: 
+	>> Weigth: 7
+	>> Value: 47
+Product[1205]: 
+	>> Weigth: 75
+	>> Value: 44
+Product[1207]: 
+	>> Weigth: 43
+	>> Value: 49
+Product[1214]: 
+	>> Weigth: 18
+	>> Value: 22
+Product[1218]: 
+	>> Weigth: 8
+	>> Value: 25
+Product[1219]: 
+	>> Weigth: 18
+	>> Value: 45
+Product[1222]: 
+	>> Weigth: 10
+	>> Value: 33
+Product[1225]: 
+	>> Weigth: 12
+	>> Value: 43
+Product[1226]: 
+	>> Weigth: 48
+	>> Value: 44
+Product[1229]: 
+	>> Weigth: 11
+	>> Value: 39
+Product[1230]: 
+	>> Weigth: 2
+	>> Value: 38
+Product[1235]: 
+	>> Weigth: 51
+	>> Value: 33
+Product[1238]: 
+	>> Weigth: 24
+	>> Value: 35
+Product[1239]: 
+	>> Weigth: 10
+	>> Value: 9
+Product[1241]: 
+	>> Weigth: 3
+	>> Value: 26
+Product[1242]: 
+	>> Weigth: 16
+	>> Value: 26
+Product[1243]: 
+	>> Weigth: 12
+	>> Value: 37
+Product[1246]: 
+	>> Weigth: 12
+	>> Value: 25
+Product[1248]: 
+	>> Weigth: 40
+	>> Value: 49
+Product[1251]: 
+	>> Weigth: 14
+	>> Value: 40
+Product[1253]: 
+	>> Weigth: 41
+	>> Value: 33
+Product[1256]: 
+	>> Weigth: 74
+	>> Value: 44
+Product[1257]: 
+	>> Weigth: 64
+	>> Value: 39
+Product[1258]: 
+	>> Weigth: 21
+	>> Value: 27
+Product[1259]: 
+	>> Weigth: 25
+	>> Value: 25
+Product[1262]: 
+	>> Weigth: 25
+	>> Value: 50
+Product[1264]: 
+	>> Weigth: 1
+	>> Value: 35
+Product[1265]: 
+	>> Weigth: 45
+	>> Value: 50
+Product[1268]: 
+	>> Weigth: 33
+	>> Value: 33
+Product[1272]: 
+	>> Weigth: 27
+	>> Value: 45
+Product[1274]: 
+	>> Weigth: 21
+	>> Value: 21
+Product[1275]: 
+	>> Weigth: 26
+	>> Value: 21
+Product[1277]: 
+	>> Weigth: 32
+	>> Value: 47
+Product[1279]: 
+	>> Weigth: 10
+	>> Value: 11
+Product[1281]: 
+	>> Weigth: 60
+	>> Value: 36
+Product[1282]: 
+	>> Weigth: 65
+	>> Value: 50
+Product[1283]: 
+	>> Weigth: 45
+	>> Value: 49
+Product[1287]: 
+	>> Weigth: 75
+	>> Value: 46
+Product[1288]: 
+	>> Weigth: 15
+	>> Value: 21
+Product[1291]: 
+	>> Weigth: 8
+	>> Value: 13
+Product[1293]: 
+	>> Weigth: 11
+	>> Value: 39
+Product[1297]: 
+	>> Weigth: 13
+	>> Value: 43
+Product[1299]: 
+	>> Weigth: 43
+	>> Value: 44
+Product[1300]: 
+	>> Weigth: 44
+	>> Value: 33
+Product[1302]: 
+	>> Weigth: 5
+	>> Value: 37
+Product[1304]: 
+	>> Weigth: 7
+	>> Value: 5
+Product[1305]: 
+	>> Weigth: 7
+	>> Value: 50
+Product[1306]: 
+	>> Weigth: 24
+	>> Value: 16
+Product[1308]: 
+	>> Weigth: 5
+	>> Value: 25
+Product[1315]: 
+	>> Weigth: 6
+	>> Value: 42
+Product[1317]: 
+	>> Weigth: 56
+	>> Value: 50
+Product[1320]: 
+	>> Weigth: 19
+	>> Value: 29
+Product[1321]: 
+	>> Weigth: 15
+	>> Value: 44
+Product[1324]: 
+	>> Weigth: 5
+	>> Value: 39
+Product[1326]: 
+	>> Weigth: 30
+	>> Value: 25
+Product[1328]: 
+	>> Weigth: 64
+	>> Value: 43
+Product[1330]: 
+	>> Weigth: 5
+	>> Value: 49
+Product[1331]: 
+	>> Weigth: 54
+	>> Value: 50
+Product[1337]: 
+	>> Weigth: 39
+	>> Value: 44
+Product[1339]: 
+	>> Weigth: 44
+	>> Value: 37
+Product[1342]: 
+	>> Weigth: 18
+	>> Value: 13
+Product[1343]: 
+	>> Weigth: 40
+	>> Value: 31
+Product[1344]: 
+	>> Weigth: 7
+	>> Value: 35
+Product[1351]: 
+	>> Weigth: 29
+	>> Value: 29
+Product[1354]: 
+	>> Weigth: 8
+	>> Value: 18
+Product[1356]: 
+	>> Weigth: 11
+	>> Value: 29
+Product[1359]: 
+	>> Weigth: 8
+	>> Value: 48
+Product[1364]: 
+	>> Weigth: 31
+	>> Value: 35
+Product[1369]: 
+	>> Weigth: 30
+	>> Value: 47
+Product[1373]: 
+	>> Weigth: 71
+	>> Value: 46
+Product[1374]: 
+	>> Weigth: 15
+	>> Value: 30
+Product[1377]: 
+	>> Weigth: 41
+	>> Value: 31
+Product[1378]: 
+	>> Weigth: 76
+	>> Value: 49
+Product[1383]: 
+	>> Weigth: 14
+	>> Value: 38
+Product[1384]: 
+	>> Weigth: 76
+	>> Value: 44
+Product[1386]: 
+	>> Weigth: 17
+	>> Value: 21
+Product[1391]: 
+	>> Weigth: 3
+	>> Value: 35
+Product[1392]: 
+	>> Weigth: 14
+	>> Value: 45
+Product[1393]: 
+	>> Weigth: 17
+	>> Value: 39
+Product[1397]: 
+	>> Weigth: 17
+	>> Value: 32
+Product[1398]: 
+	>> Weigth: 27
+	>> Value: 30
+Product[1401]: 
+	>> Weigth: 10
+	>> Value: 42
+Product[1405]: 
+	>> Weigth: 46
+	>> Value: 40
+Product[1406]: 
+	>> Weigth: 34
+	>> Value: 50
+Product[1407]: 
+	>> Weigth: 76
+	>> Value: 49
+Product[1408]: 
+	>> Weigth: 46
+	>> Value: 43
+Product[1411]: 
+	>> Weigth: 18
+	>> Value: 35
+Product[1412]: 
+	>> Weigth: 1
+	>> Value: 34
+Product[1414]: 
+	>> Weigth: 16
+	>> Value: 39
+Product[1416]: 
+	>> Weigth: 46
+	>> Value: 41
+Product[1417]: 
+	>> Weigth: 33
+	>> Value: 26
+Product[1418]: 
+	>> Weigth: 53
+	>> Value: 45
+Product[1419]: 
+	>> Weigth: 55
+	>> Value: 38
+Product[1422]: 
+	>> Weigth: 3
+	>> Value: 4
+Product[1423]: 
+	>> Weigth: 3
+	>> Value: 48
+Product[1424]: 
+	>> Weigth: 48
+	>> Value: 41
+Product[1430]: 
+	>> Weigth: 39
+	>> Value: 35
+Product[1431]: 
+	>> Weigth: 44
+	>> Value: 36
+Product[1432]: 
+	>> Weigth: 27
+	>> Value: 27
+Product[1433]: 
+	>> Weigth: 13
+	>> Value: 29
+Product[1434]: 
+	>> Weigth: 23
+	>> Value: 17
+Product[1435]: 
+	>> Weigth: 68
+	>> Value: 42
+Product[1436]: 
+	>> Weigth: 70
+	>> Value: 48
+Product[1441]: 
+	>> Weigth: 1
+	>> Value: 18
+Product[1442]: 
+	>> Weigth: 13
+	>> Value: 35
+Product[1445]: 
+	>> Weigth: 6
+	>> Value: 25
+Product[1452]: 
+	>> Weigth: 61
+	>> Value: 41
+Product[1458]: 
+	>> Weigth: 54
+	>> Value: 49
+Product[1460]: 
+	>> Weigth: 1
+	>> Value: 31
+Product[1461]: 
+	>> Weigth: 12
+	>> Value: 40
+Product[1463]: 
+	>> Weigth: 5
+	>> Value: 10
+Product[1464]: 
+	>> Weigth: 47
+	>> Value: 50
+Product[1465]: 
+	>> Weigth: 61
+	>> Value: 40
+Product[1467]: 
+	>> Weigth: 2
+	>> Value: 24
+Product[1469]: 
+	>> Weigth: 39
+	>> Value: 38
+Product[1472]: 
+	>> Weigth: 24
+	>> Value: 27
+Product[1473]: 
+	>> Weigth: 28
+	>> Value: 27
+Product[1475]: 
+	>> Weigth: 16
+	>> Value: 28
+Product[1476]: 
+	>> Weigth: 36
+	>> Value: 29
+Product[1477]: 
+	>> Weigth: 19
+	>> Value: 19
+Product[1480]: 
+	>> Weigth: 73
+	>> Value: 43
+Product[1481]: 
+	>> Weigth: 41
+	>> Value: 35
+Product[1482]: 
+	>> Weigth: 46
+	>> Value: 44
+Product[1483]: 
+	>> Weigth: 10
+	>> Value: 42
+Product[1487]: 
+	>> Weigth: 26
+	>> Value: 32
+Product[1492]: 
+	>> Weigth: 5
+	>> Value: 8
+Product[1494]: 
+	>> Weigth: 30
+	>> Value: 48
+Product[1499]: 
+	>> Weigth: 31
+	>> Value: 25
+Product[1504]: 
+	>> Weigth: 29
+	>> Value: 48
+Product[1505]: 
+	>> Weigth: 61
+	>> Value: 40
+Product[1506]: 
+	>> Weigth: 72
+	>> Value: 49
+Product[1510]: 
+	>> Weigth: 4
+	>> Value: 44
+Product[1511]: 
+	>> Weigth: 39
+	>> Value: 44
+Product[1512]: 
+	>> Weigth: 46
+	>> Value: 29
+Product[1521]: 
+	>> Weigth: 7
+	>> Value: 42
+Product[1522]: 
+	>> Weigth: 55
+	>> Value: 45
+Product[1527]: 
+	>> Weigth: 50
+	>> Value: 45
+Product[1529]: 
+	>> Weigth: 35
+	>> Value: 47
+Product[1532]: 
+	>> Weigth: 15
+	>> Value: 10
+Product[1541]: 
+	>> Weigth: 31
+	>> Value: 20
+Product[1542]: 
+	>> Weigth: 20
+	>> Value: 32
+Product[1543]: 
+	>> Weigth: 66
+	>> Value: 38
+Product[1546]: 
+	>> Weigth: 4
+	>> Value: 12
+Product[1547]: 
+	>> Weigth: 26
+	>> Value: 20
+Product[1552]: 
+	>> Weigth: 22
+	>> Value: 48
+Product[1553]: 
+	>> Weigth: 28
+	>> Value: 48
+Product[1555]: 
+	>> Weigth: 24
+	>> Value: 33
+Product[1560]: 
+	>> Weigth: 21
+	>> Value: 32
+Product[1566]: 
+	>> Weigth: 15
+	>> Value: 21
+Product[1569]: 
+	>> Weigth: 36
+	>> Value: 31
+Product[1573]: 
+	>> Weigth: 14
+	>> Value: 50
+Product[1577]: 
+	>> Weigth: 34
+	>> Value: 36
+Product[1579]: 
+	>> Weigth: 2
+	>> Value: 14
+Product[1584]: 
+	>> Weigth: 20
+	>> Value: 40
+Product[1590]: 
+	>> Weigth: 15
+	>> Value: 15
+Product[1591]: 
+	>> Weigth: 12
+	>> Value: 9
+Product[1592]: 
+	>> Weigth: 72
+	>> Value: 48
+Product[1594]: 
+	>> Weigth: 80
+	>> Value: 48
+Product[1595]: 
+	>> Weigth: 30
+	>> Value: 32
+Product[1599]: 
+	>> Weigth: 66
+	>> Value: 48
+Product[1604]: 
+	>> Weigth: 33
+	>> Value: 24
+Product[1605]: 
+	>> Weigth: 83
+	>> Value: 49
+Product[1606]: 
+	>> Weigth: 38
+	>> Value: 45
+Product[1613]: 
+	>> Weigth: 28
+	>> Value: 46
+Product[1614]: 
+	>> Weigth: 59
+	>> Value: 43
+Product[1619]: 
+	>> Weigth: 37
+	>> Value: 42
+Product[1621]: 
+	>> Weigth: 40
+	>> Value: 26
+Product[1622]: 
+	>> Weigth: 66
+	>> Value: 49
+Product[1624]: 
+	>> Weigth: 3
+	>> Value: 13
+Product[1627]: 
+	>> Weigth: 27
+	>> Value: 36
+Product[1629]: 
+	>> Weigth: 31
+	>> Value: 49
+Product[1631]: 
+	>> Weigth: 5
+	>> Value: 48
+Product[1634]: 
+	>> Weigth: 22
+	>> Value: 44
+Product[1635]: 
+	>> Weigth: 6
+	>> Value: 10
+Product[1636]: 
+	>> Weigth: 65
+	>> Value: 45
+Product[1639]: 
+	>> Weigth: 38
+	>> Value: 45
+Product[1641]: 
+	>> Weigth: 2
+	>> Value: 4
+Product[1642]: 
+	>> Weigth: 3
+	>> Value: 29
+Product[1643]: 
+	>> Weigth: 39
+	>> Value: 40
+Product[1644]: 
+	>> Weigth: 35
+	>> Value: 21
+Product[1645]: 
+	>> Weigth: 40
+	>> Value: 33
+Product[1646]: 
+	>> Weigth: 45
+	>> Value: 44
+Product[1648]: 
+	>> Weigth: 53
+	>> Value: 39
+Product[1649]: 
+	>> Weigth: 16
+	>> Value: 27
+Product[1655]: 
+	>> Weigth: 56
+	>> Value: 33
+Product[1658]: 
+	>> Weigth: 38
+	>> Value: 24
+Product[1659]: 
+	>> Weigth: 26
+	>> Value: 22
+Product[1661]: 
+	>> Weigth: 4
+	>> Value: 40
+Product[1662]: 
+	>> Weigth: 9
+	>> Value: 38
+Product[1666]: 
+	>> Weigth: 30
+	>> Value: 27
+Product[1667]: 
+	>> Weigth: 6
+	>> Value: 46
+Product[1669]: 
+	>> Weigth: 7
+	>> Value: 46
+Product[1671]: 
+	>> Weigth: 28
+	>> Value: 29
+Product[1675]: 
+	>> Weigth: 32
+	>> Value: 33
+Product[1676]: 
+	>> Weigth: 55
+	>> Value: 37
+Product[1678]: 
+	>> Weigth: 24
+	>> Value: 18
+Product[1683]: 
+	>> Weigth: 4
+	>> Value: 49
+Product[1687]: 
+	>> Weigth: 27
+	>> Value: 45
+Product[1688]: 
+	>> Weigth: 38
+	>> Value: 41
+Product[1691]: 
+	>> Weigth: 60
+	>> Value: 35
+Product[1695]: 
+	>> Weigth: 3
+	>> Value: 30
+Product[1699]: 
+	>> Weigth: 46
+	>> Value: 31
+Product[1700]: 
+	>> Weigth: 52
+	>> Value: 40
+Product[1701]: 
+	>> Weigth: 28
+	>> Value: 25
+Product[1706]: 
+	>> Weigth: 14
+	>> Value: 41
+Product[1707]: 
+	>> Weigth: 11
+	>> Value: 40
+Product[1709]: 
+	>> Weigth: 41
+	>> Value: 30
+Product[1711]: 
+	>> Weigth: 61
+	>> Value: 41
+Product[1712]: 
+	>> Weigth: 10
+	>> Value: 50
+Product[1713]: 
+	>> Weigth: 38
+	>> Value: 42
+Product[1714]: 
+	>> Weigth: 41
+	>> Value: 34
+Product[1715]: 
+	>> Weigth: 72
+	>> Value: 42
+Product[1717]: 
+	>> Weigth: 67
+	>> Value: 39
+Product[1718]: 
+	>> Weigth: 57
+	>> Value: 38
+Product[1720]: 
+	>> Weigth: 11
+	>> Value: 19
+Product[1721]: 
+	>> Weigth: 29
+	>> Value: 24
+Product[1722]: 
+	>> Weigth: 61
+	>> Value: 41
+Product[1723]: 
+	>> Weigth: 65
+	>> Value: 38
+Product[1724]: 
+	>> Weigth: 3
+	>> Value: 8
+Product[1725]: 
+	>> Weigth: 19
+	>> Value: 45
+Product[1726]: 
+	>> Weigth: 52
+	>> Value: 32
+Product[1730]: 
+	>> Weigth: 7
+	>> Value: 26
+Product[1732]: 
+	>> Weigth: 28
+	>> Value: 35
+Product[1733]: 
+	>> Weigth: 19
+	>> Value: 36
+Product[1737]: 
+	>> Weigth: 10
+	>> Value: 41
+Product[1738]: 
+	>> Weigth: 11
+	>> Value: 26
+Product[1741]: 
+	>> Weigth: 57
+	>> Value: 35
+Product[1745]: 
+	>> Weigth: 38
+	>> Value: 25
+Product[1747]: 
+	>> Weigth: 6
+	>> Value: 7
+Product[1748]: 
+	>> Weigth: 40
+	>> Value: 26
+Product[1750]: 
+	>> Weigth: 38
+	>> Value: 32
+Product[1753]: 
+	>> Weigth: 10
+	>> Value: 12
+Product[1754]: 
+	>> Weigth: 35
+	>> Value: 39
+Product[1755]: 
+	>> Weigth: 26
+	>> Value: 19
+Product[1756]: 
+	>> Weigth: 39
+	>> Value: 35
+Product[1759]: 
+	>> Weigth: 34
+	>> Value: 45
+Product[1760]: 
+	>> Weigth: 6
+	>> Value: 21
+Product[1761]: 
+	>> Weigth: 20
+	>> Value: 37
+Product[1762]: 
+	>> Weigth: 26
+	>> Value: 27
+Product[1764]: 
+	>> Weigth: 4
+	>> Value: 37
+Product[1765]: 
+	>> Weigth: 31
+	>> Value: 42
+Product[1769]: 
+	>> Weigth: 35
+	>> Value: 25
+Product[1770]: 
+	>> Weigth: 9
+	>> Value: 10
+Product[1773]: 
+	>> Weigth: 18
+	>> Value: 23
+Product[1778]: 
+	>> Weigth: 16
+	>> Value: 40
+Product[1780]: 
+	>> Weigth: 29
+	>> Value: 46
+Product[1781]: 
+	>> Weigth: 13
+	>> Value: 49
+Product[1782]: 
+	>> Weigth: 25
+	>> Value: 23
+Product[1786]: 
+	>> Weigth: 17
+	>> Value: 36
+Product[1787]: 
+	>> Weigth: 2
+	>> Value: 13
+Product[1789]: 
+	>> Weigth: 37
+	>> Value: 37
+Product[1792]: 
+	>> Weigth: 45
+	>> Value: 41
+Product[1796]: 
+	>> Weigth: 2
+	>> Value: 45
+Product[1798]: 
+	>> Weigth: 18
+	>> Value: 31
+Product[1800]: 
+	>> Weigth: 38
+	>> Value: 34
+Product[1802]: 
+	>> Weigth: 19
+	>> Value: 17
+Product[1806]: 
+	>> Weigth: 13
+	>> Value: 38
+Product[1811]: 
+	>> Weigth: 71
+	>> Value: 50
+Product[1812]: 
+	>> Weigth: 46
+	>> Value: 30
+Product[1815]: 
+	>> Weigth: 26
+	>> Value: 50
+Product[1816]: 
+	>> Weigth: 55
+	>> Value: 41
+Product[1817]: 
+	>> Weigth: 8
+	>> Value: 23
+Product[1818]: 
+	>> Weigth: 9
+	>> Value: 28
+Product[1819]: 
+	>> Weigth: 77
+	>> Value: 45
+Product[1821]: 
+	>> Weigth: 2
+	>> Value: 49
+Product[1823]: 
+	>> Weigth: 57
+	>> Value: 35
+Product[1825]: 
+	>> Weigth: 46
+	>> Value: 44
+Product[1827]: 
+	>> Weigth: 43
+	>> Value: 25
+Product[1831]: 
+	>> Weigth: 57
+	>> Value: 46
+Product[1833]: 
+	>> Weigth: 21
+	>> Value: 14
+Product[1834]: 
+	>> Weigth: 44
+	>> Value: 47
+Product[1835]: 
+	>> Weigth: 11
+	>> Value: 29
+Product[1838]: 
+	>> Weigth: 17
+	>> Value: 38
+Product[1841]: 
+	>> Weigth: 9
+	>> Value: 43
+Product[1847]: 
+	>> Weigth: 13
+	>> Value: 28
+Product[1849]: 
+	>> Weigth: 44
+	>> Value: 41
+Product[1851]: 
+	>> Weigth: 72
+	>> Value: 49
+Product[1852]: 
+	>> Weigth: 69
+	>> Value: 50
+Product[1853]: 
+	>> Weigth: 23
+	>> Value: 38
+Product[1860]: 
+	>> Weigth: 22
+	>> Value: 49
+Product[1861]: 
+	>> Weigth: 4
+	>> Value: 44
+Product[1864]: 
+	>> Weigth: 1
+	>> Value: 19
+Product[1865]: 
+	>> Weigth: 21
+	>> Value: 34
+Product[1866]: 
+	>> Weigth: 74
+	>> Value: 44
+Product[1867]: 
+	>> Weigth: 34
+	>> Value: 44
+Product[1869]: 
+	>> Weigth: 31
+	>> Value: 34
+Product[1872]: 
+	>> Weigth: 42
+	>> Value: 32
+Product[1876]: 
+	>> Weigth: 58
+	>> Value: 45
+Product[1877]: 
+	>> Weigth: 12
+	>> Value: 40
+Product[1879]: 
+	>> Weigth: 19
+	>> Value: 13
+Product[1880]: 
+	>> Weigth: 5
+	>> Value: 41
+Product[1881]: 
+	>> Weigth: 46
+	>> Value: 28
+Product[1882]: 
+	>> Weigth: 34
+	>> Value: 31
+Product[1885]: 
+	>> Weigth: 12
+	>> Value: 25
+Product[1886]: 
+	>> Weigth: 36
+	>> Value: 49
+Product[1887]: 
+	>> Weigth: 50
+	>> Value: 30
+Product[1888]: 
+	>> Weigth: 32
+	>> Value: 33
+Product[1893]: 
+	>> Weigth: 38
+	>> Value: 33
+Product[1900]: 
+	>> Weigth: 5
+	>> Value: 25
+Product[1901]: 
+	>> Weigth: 36
+	>> Value: 43
+Product[1902]: 
+	>> Weigth: 25
+	>> Value: 37
+Product[1906]: 
+	>> Weigth: 36
+	>> Value: 35
+Product[1910]: 
+	>> Weigth: 5
+	>> Value: 42
+Product[1912]: 
+	>> Weigth: 35
+	>> Value: 27
+Product[1914]: 
+	>> Weigth: 28
+	>> Value: 50
+Product[1920]: 
+	>> Weigth: 11
+	>> Value: 43
+Product[1921]: 
+	>> Weigth: 30
+	>> Value: 48
+Product[1923]: 
+	>> Weigth: 8
+	>> Value: 24
+Product[1925]: 
+	>> Weigth: 68
+	>> Value: 42
+Product[1928]: 
+	>> Weigth: 40
+	>> Value: 33
+Product[1932]: 
+	>> Weigth: 16
+	>> Value: 32
+Product[1935]: 
+	>> Weigth: 30
+	>> Value: 44
+Product[1936]: 
+	>> Weigth: 12
+	>> Value: 9
+Product[1939]: 
+	>> Weigth: 15
+	>> Value: 37
+Product[1940]: 
+	>> Weigth: 53
+	>> Value: 32
+Product[1945]: 
+	>> Weigth: 2
+	>> Value: 39
+Product[1951]: 
+	>> Weigth: 18
+	>> Value: 39
+Product[1953]: 
+	>> Weigth: 30
+	>> Value: 38
+Product[1954]: 
+	>> Weigth: 63
+	>> Value: 44
+Product[1957]: 
+	>> Weigth: 11
+	>> Value: 20
+Product[1959]: 
+	>> Weigth: 6
+	>> Value: 33
+Product[1966]: 
+	>> Weigth: 73
+	>> Value: 45
+Product[1968]: 
+	>> Weigth: 7
+	>> Value: 26
+Product[1970]: 
+	>> Weigth: 20
+	>> Value: 25
+Product[1971]: 
+	>> Weigth: 36
+	>> Value: 47
+Product[1972]: 
+	>> Weigth: 79
+	>> Value: 47
+Product[1975]: 
+	>> Weigth: 40
+	>> Value: 26
+Product[1987]: 
+	>> Weigth: 21
+	>> Value: 21
+Product[1989]: 
+	>> Weigth: 27
+	>> Value: 19
+Product[1990]: 
+	>> Weigth: 13
+	>> Value: 18
+Product[1994]: 
+	>> Weigth: 21
+	>> Value: 48
+Product[1997]: 
+	>> Weigth: 6
+	>> Value: 4
+Product[1999]: 
+	>> Weigth: 39
+	>> Value: 47
+Product[2000]: 
+	>> Weigth: 37
+	>> Value: 43
+Product[2002]: 
+	>> Weigth: 34
+	>> Value: 41
+Product[2004]: 
+	>> Weigth: 28
+	>> Value: 25
+Product[2005]: 
+	>> Weigth: 41
+	>> Value: 42
+Product[2006]: 
+	>> Weigth: 42
+	>> Value: 37
+Product[2007]: 
+	>> Weigth: 37
+	>> Value: 25
+Product[2009]: 
+	>> Weigth: 43
+	>> Value: 46
+Product[2013]: 
+	>> Weigth: 64
+	>> Value: 40
+Product[2020]: 
+	>> Weigth: 62
+	>> Value: 42
+Product[2026]: 
+	>> Weigth: 55
+	>> Value: 50
+Product[2028]: 
+	>> Weigth: 3
+	>> Value: 43
+Product[2029]: 
+	>> Weigth: 45
+	>> Value: 27
+Product[2031]: 
+	>> Weigth: 39
+	>> Value: 43
+Product[2033]: 
+	>> Weigth: 22
+	>> Value: 38
+Product[2034]: 
+	>> Weigth: 16
+	>> Value: 23
+Product[2035]: 
+	>> Weigth: 17
+	>> Value: 27
+Product[2036]: 
+	>> Weigth: 16
+	>> Value: 37
+Product[2037]: 
+	>> Weigth: 31
+	>> Value: 48
+Product[2039]: 
+	>> Weigth: 53
+	>> Value: 33
+Product[2041]: 
+	>> Weigth: 52
+	>> Value: 40
+Product[2042]: 
+	>> Weigth: 5
+	>> Value: 30
+Product[2044]: 
+	>> Weigth: 24
+	>> Value: 40
+Product[2046]: 
+	>> Weigth: 22
+	>> Value: 26
+Product[2048]: 
+	>> Weigth: 4
+	>> Value: 35
+Product[2053]: 
+	>> Weigth: 74
+	>> Value: 48
+Product[2054]: 
+	>> Weigth: 41
+	>> Value: 27
+Product[2055]: 
+	>> Weigth: 31
+	>> Value: 26
+Product[2057]: 
+	>> Weigth: 18
+	>> Value: 35
+Product[2058]: 
+	>> Weigth: 15
+	>> Value: 12
+Product[2059]: 
+	>> Weigth: 44
+	>> Value: 41
+Product[2060]: 
+	>> Weigth: 51
+	>> Value: 31
+Product[2061]: 
+	>> Weigth: 10
+	>> Value: 22
+Product[2062]: 
+	>> Weigth: 8
+	>> Value: 24
+Product[2064]: 
+	>> Weigth: 10
+	>> Value: 36
+Product[2069]: 
+	>> Weigth: 7
+	>> Value: 50
+Product[2070]: 
+	>> Weigth: 46
+	>> Value: 39
+Product[2071]: 
+	>> Weigth: 26
+	>> Value: 29
+Product[2072]: 
+	>> Weigth: 22
+	>> Value: 45
+Product[2073]: 
+	>> Weigth: 15
+	>> Value: 39
+Product[2074]: 
+	>> Weigth: 6
+	>> Value: 8
+Product[2076]: 
+	>> Weigth: 40
+	>> Value: 40
+Product[2077]: 
+	>> Weigth: 80
+	>> Value: 48
+Product[2078]: 
+	>> Weigth: 15
+	>> Value: 14
+Product[2079]: 
+	>> Weigth: 11
+	>> Value: 25
+Product[2080]: 
+	>> Weigth: 50
+	>> Value: 44
+Product[2082]: 
+	>> Weigth: 24
+	>> Value: 41
+Product[2084]: 
+	>> Weigth: 10
+	>> Value: 18
+Product[2087]: 
+	>> Weigth: 34
+	>> Value: 30
+Product[2088]: 
+	>> Weigth: 54
+	>> Value: 48
+Product[2090]: 
+	>> Weigth: 58
+	>> Value: 50
+Product[2091]: 
+	>> Weigth: 67
+	>> Value: 49
+Product[2092]: 
+	>> Weigth: 40
+	>> Value: 47
+Product[2094]: 
+	>> Weigth: 12
+	>> Value: 10
+Product[2099]: 
+	>> Weigth: 10
+	>> Value: 24
+Product[2100]: 
+	>> Weigth: 48
+	>> Value: 42
+Product[2102]: 
+	>> Weigth: 3
+	>> Value: 16
+Product[2107]: 
+	>> Weigth: 23
+	>> Value: 47
+Product[2108]: 
+	>> Weigth: 31
+	>> Value: 22
+Product[2109]: 
+	>> Weigth: 3
+	>> Value: 42
+Product[2110]: 
+	>> Weigth: 32
+	>> Value: 30
+Product[2111]: 
+	>> Weigth: 55
+	>> Value: 35
+Product[2112]: 
+	>> Weigth: 6
+	>> Value: 21
+Product[2114]: 
+	>> Weigth: 1
+	>> Value: 22
+Product[2117]: 
+	>> Weigth: 7
+	>> Value: 17
+Product[2120]: 
+	>> Weigth: 53
+	>> Value: 40
+Product[2127]: 
+	>> Weigth: 44
+	>> Value: 48
+Product[2129]: 
+	>> Weigth: 18
+	>> Value: 22
+Product[2132]: 
+	>> Weigth: 37
+	>> Value: 29
+Product[2133]: 
+	>> Weigth: 9
+	>> Value: 30
+Product[2136]: 
+	>> Weigth: 21
+	>> Value: 19
+Product[2138]: 
+	>> Weigth: 26
+	>> Value: 48
+Product[2140]: 
+	>> Weigth: 59
+	>> Value: 44
+Product[2144]: 
+	>> Weigth: 11
+	>> Value: 17
+Product[2147]: 
+	>> Weigth: 30
+	>> Value: 19
+Product[2148]: 
+	>> Weigth: 40
+	>> Value: 40
+Product[2150]: 
+	>> Weigth: 23
+	>> Value: 36
+Product[2151]: 
+	>> Weigth: 42
+	>> Value: 46
+Product[2153]: 
+	>> Weigth: 39
+	>> Value: 31
+Product[2155]: 
+	>> Weigth: 34
+	>> Value: 38
+Product[2156]: 
+	>> Weigth: 31
+	>> Value: 46
+Product[2158]: 
+	>> Weigth: 1
+	>> Value: 39
+Product[2161]: 
+	>> Weigth: 51
+	>> Value: 39
+Product[2171]: 
+	>> Weigth: 27
+	>> Value: 50
+Product[2173]: 
+	>> Weigth: 24
+	>> Value: 15
+Product[2178]: 
+	>> Weigth: 14
+	>> Value: 11
+Product[2179]: 
+	>> Weigth: 51
+	>> Value: 36
+Product[2180]: 
+	>> Weigth: 67
+	>> Value: 41
+Product[2182]: 
+	>> Weigth: 21
+	>> Value: 21
+Product[2184]: 
+	>> Weigth: 4
+	>> Value: 40
+Product[2188]: 
+	>> Weigth: 20
+	>> Value: 48
+Product[2189]: 
+	>> Weigth: 37
+	>> Value: 26
+Product[2192]: 
+	>> Weigth: 46
+	>> Value: 48
+Product[2194]: 
+	>> Weigth: 10
+	>> Value: 29
+Product[2196]: 
+	>> Weigth: 19
+	>> Value: 27
+Product[2201]: 
+	>> Weigth: 25
+	>> Value: 45
+Product[2202]: 
+	>> Weigth: 48
+	>> Value: 47
+Product[2207]: 
+	>> Weigth: 8
+	>> Value: 17
+Product[2209]: 
+	>> Weigth: 77
+	>> Value: 46
+Product[2213]: 
+	>> Weigth: 23
+	>> Value: 49
+Product[2214]: 
+	>> Weigth: 6
+	>> Value: 47
+Product[2215]: 
+	>> Weigth: 52
+	>> Value: 44
+Product[2216]: 
+	>> Weigth: 44
+	>> Value: 26
+Product[2217]: 
+	>> Weigth: 38
+	>> Value: 43
+Product[2220]: 
+	>> Weigth: 9
+	>> Value: 6
+Product[2221]: 
+	>> Weigth: 26
+	>> Value: 28
+Product[2223]: 
+	>> Weigth: 44
+	>> Value: 31
+Product[2226]: 
+	>> Weigth: 43
+	>> Value: 49
+Product[2227]: 
+	>> Weigth: 17
+	>> Value: 43
+Product[2228]: 
+	>> Weigth: 8
+	>> Value: 39
+Product[2231]: 
+	>> Weigth: 11
+	>> Value: 31
+Product[2232]: 
+	>> Weigth: 72
+	>> Value: 48
+Product[2233]: 
+	>> Weigth: 23
+	>> Value: 47
+Product[2234]: 
+	>> Weigth: 55
+	>> Value: 34
+Product[2235]: 
+	>> Weigth: 18
+	>> Value: 13
+Product[2240]: 
+	>> Weigth: 6
+	>> Value: 41
+Product[2241]: 
+	>> Weigth: 35
+	>> Value: 48
+Product[2244]: 
+	>> Weigth: 41
+	>> Value: 34
+Product[2245]: 
+	>> Weigth: 16
+	>> Value: 26
+Product[2248]: 
+	>> Weigth: 25
+	>> Value: 31
+Product[2249]: 
+	>> Weigth: 47
+	>> Value: 29
+Product[2252]: 
+	>> Weigth: 11
+	>> Value: 34
+Product[2256]: 
+	>> Weigth: 48
+	>> Value: 30
+Product[2264]: 
+	>> Weigth: 36
+	>> Value: 27
+Product[2268]: 
+	>> Weigth: 63
+	>> Value: 48
+Product[2269]: 
+	>> Weigth: 48
+	>> Value: 33
+Product[2270]: 
+	>> Weigth: 55
+	>> Value: 42
+Product[2275]: 
+	>> Weigth: 77
+	>> Value: 46
+Product[2277]: 
+	>> Weigth: 24
+	>> Value: 15
+Product[2279]: 
+	>> Weigth: 21
+	>> Value: 18
+Product[2281]: 
+	>> Weigth: 19
+	>> Value: 20
+Product[2283]: 
+	>> Weigth: 76
+	>> Value: 45
+Product[2291]: 
+	>> Weigth: 13
+	>> Value: 40
+Product[2300]: 
+	>> Weigth: 38
+	>> Value: 36
+Product[2302]: 
+	>> Weigth: 21
+	>> Value: 27
+Product[2304]: 
+	>> Weigth: 50
+	>> Value: 39
+Product[2308]: 
+	>> Weigth: 58
+	>> Value: 48
+Product[2309]: 
+	>> Weigth: 36
+	>> Value: 46
+Product[2312]: 
+	>> Weigth: 2
+	>> Value: 2
+Product[2313]: 
+	>> Weigth: 17
+	>> Value: 47
+Product[2314]: 
+	>> Weigth: 17
+	>> Value: 24
+Product[2319]: 
+	>> Weigth: 23
+	>> Value: 37
+Product[2322]: 
+	>> Weigth: 51
+	>> Value: 33
+Product[2324]: 
+	>> Weigth: 32
+	>> Value: 50
+Product[2325]: 
+	>> Weigth: 5
+	>> Value: 6
+Product[2327]: 
+	>> Weigth: 13
+	>> Value: 37
+Product[2328]: 
+	>> Weigth: 21
+	>> Value: 29
+Product[2333]: 
+	>> Weigth: 48
+	>> Value: 48
+Product[2336]: 
+	>> Weigth: 2
+	>> Value: 27
+Product[2339]: 
+	>> Weigth: 63
+	>> Value: 42
+Product[2347]: 
+	>> Weigth: 13
+	>> Value: 43
+Product[2354]: 
+	>> Weigth: 5
+	>> Value: 4
+Product[2358]: 
+	>> Weigth: 17
+	>> Value: 36
+Product[2359]: 
+	>> Weigth: 14
+	>> Value: 10
+Product[2361]: 
+	>> Weigth: 56
+	>> Value: 49
+Product[2363]: 
+	>> Weigth: 41
+	>> Value: 43
+Product[2366]: 
+	>> Weigth: 8
+	>> Value: 15
+Product[2368]: 
+	>> Weigth: 44
+	>> Value: 39
+Product[2369]: 
+	>> Weigth: 75
+	>> Value: 50
+Product[2370]: 
+	>> Weigth: 44
+	>> Value: 31
+Product[2374]: 
+	>> Weigth: 3
+	>> Value: 40
+Product[2375]: 
+	>> Weigth: 16
+	>> Value: 21
+Product[2377]: 
+	>> Weigth: 19
+	>> Value: 47
+Product[2380]: 
+	>> Weigth: 42
+	>> Value: 42
+Product[2382]: 
+	>> Weigth: 56
+	>> Value: 35
+Product[2384]: 
+	>> Weigth: 26
+	>> Value: 40
+Product[2385]: 
+	>> Weigth: 2
+	>> Value: 19
+Product[2386]: 
+	>> Weigth: 22
+	>> Value: 31
+Product[2391]: 
+	>> Weigth: 75
+	>> Value: 46
+Product[2392]: 
+	>> Weigth: 4
+	>> Value: 43
+Product[2393]: 
+	>> Weigth: 45
+	>> Value: 46
+Product[2394]: 
+	>> Weigth: 55
+	>> Value: 35
+Product[2395]: 
+	>> Weigth: 68
+	>> Value: 48
+Product[2400]: 
+	>> Weigth: 56
+	>> Value: 36
+Product[2409]: 
+	>> Weigth: 33
+	>> Value: 40
+Product[2412]: 
+	>> Weigth: 54
+	>> Value: 36
+Product[2413]: 
+	>> Weigth: 57
+	>> Value: 42
+Product[2414]: 
+	>> Weigth: 2
+	>> Value: 41
+Product[2415]: 
+	>> Weigth: 7
+	>> Value: 7
+Product[2416]: 
+	>> Weigth: 27
+	>> Value: 38
+Product[2417]: 
+	>> Weigth: 33
+	>> Value: 44
+Product[2418]: 
+	>> Weigth: 5
+	>> Value: 20
+Product[2419]: 
+	>> Weigth: 9
+	>> Value: 31
+Product[2424]: 
+	>> Weigth: 36
+	>> Value: 28
+Product[2425]: 
+	>> Weigth: 45
+	>> Value: 34
+Product[2427]: 
+	>> Weigth: 10
+	>> Value: 32
+Product[2428]: 
+	>> Weigth: 21
+	>> Value: 18
+Product[2429]: 
+	>> Weigth: 25
+	>> Value: 22
+Product[2432]: 
+	>> Weigth: 19
+	>> Value: 13
+Product[2437]: 
+	>> Weigth: 16
+	>> Value: 34
+Product[2440]: 
+	>> Weigth: 38
+	>> Value: 34
+Product[2441]: 
+	>> Weigth: 5
+	>> Value: 16
+Product[2442]: 
+	>> Weigth: 19
+	>> Value: 16
+Product[2445]: 
+	>> Weigth: 12
+	>> Value: 43
+Product[2446]: 
+	>> Weigth: 55
+	>> Value: 42
+Product[2448]: 
+	>> Weigth: 5
+	>> Value: 11
+Product[2449]: 
+	>> Weigth: 51
+	>> Value: 41
+Product[2450]: 
+	>> Weigth: 3
+	>> Value: 6
+Product[2452]: 
+	>> Weigth: 18
+	>> Value: 14
+Product[2454]: 
+	>> Weigth: 26
+	>> Value: 42
+Product[2455]: 
+	>> Weigth: 20
+	>> Value: 13
+Product[2456]: 
+	>> Weigth: 28
+	>> Value: 27
+Product[2457]: 
+	>> Weigth: 31
+	>> Value: 46
+Product[2458]: 
+	>> Weigth: 42
+	>> Value: 30
+Product[2459]: 
+	>> Weigth: 36
+	>> Value: 27
+Product[2460]: 
+	>> Weigth: 5
+	>> Value: 47
+Product[2464]: 
+	>> Weigth: 63
+	>> Value: 38
+Product[2469]: 
+	>> Weigth: 13
+	>> Value: 26
+Product[2472]: 
+	>> Weigth: 12
+	>> Value: 22
+Product[2474]: 
+	>> Weigth: 3
+	>> Value: 41
+Product[2477]: 
+	>> Weigth: 18
+	>> Value: 29
+Product[2478]: 
+	>> Weigth: 1
+	>> Value: 7
+Product[2481]: 
+	>> Weigth: 31
+	>> Value: 38
+Product[2483]: 
+	>> Weigth: 52
+	>> Value: 47
+Product[2484]: 
+	>> Weigth: 2
+	>> Value: 14
+Product[2489]: 
+	>> Weigth: 16
+	>> Value: 39
+Product[2493]: 
+	>> Weigth: 57
+	>> Value: 50
+Product[2495]: 
+	>> Weigth: 15
+	>> Value: 17
+Product[2496]: 
+	>> Weigth: 42
+	>> Value: 47
+Product[2497]: 
+	>> Weigth: 6
+	>> Value: 38
+
+Knapsack max value (solution): 37138
